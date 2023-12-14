@@ -14,7 +14,7 @@ Welcome to the Memory Matching Game project! This classic memory game allows pla
 
 ## Demo
 
-[Provide a link to a live demo or screenshots of your game.]
+![Screenshot](Screenshot_20231214-165934.jpg)
 
 ## Features
 
