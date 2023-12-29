@@ -55,5 +55,5 @@ To run the game locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/memory-matching-game.git
+   git clone https://github.com/ShadBalti/memory-matching-game.git
    
